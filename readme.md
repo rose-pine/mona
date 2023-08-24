@@ -28,3 +28,4 @@ Or open mona-cat://8cf6
 ## Thanks to
 
 - [Maique](https://social.lol/@maique)
+- [Glowing Firefly](https://social.vivaldi.net/@glowingfirefly)
