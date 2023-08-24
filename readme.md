@@ -16,9 +16,9 @@ Select your varient
 
 | Name | Color | QR Code |
 |---|---|---|
-| Rosé Pine | ![The default Rosé Pine theme. The darkest of the variants is represented by a black rose, but despite the darkness, colorful hues can be seen throughout the Mona interface.](https://github.com/SocietasEvanescentes/RosePineForMona/assets/25782090/1b3020a0-d3e7-4fd0-88e7-240bad14dc10) | ![Rose Pine QR Code](https://github.com/SocietasEvanescentes/RosePineForMona/assets/25782090/c781761e-bbfb-4e0a-871f-2b0955d16be2) 
-| Rosé Pine Moon | ![The moon variant is represented by a gorgeous, attention-grabbing red rose with a rich green stem. This conveys the vibrant colors used in the moon theme, a dark theme that doesn't compromise with dull colors.](https://github.com/SocietasEvanescentes/RosePineForMona/assets/25782090/331db868-2f0f-41a1-a566-1076fadd5e8c) | ![Rose Pine Moon QR Code](https://raw.githubusercontent.com/SocietasEvanescentes/RosePineForMona/main/RosePineMoonQR.jpg) | 
-| Rosé Pine Dawn | ![The dawn variant is represented by this pale yet calm rose, to convey a comfy theme that's easy on the eyes.](https://github.com/SocietasEvanescentes/RosePineForMona/assets/25782090/6fd2019c-217d-4e24-a5a8-a4c2f570c4c7) | ![Rose Pine Dawn QR Code](https://github.com/SocietasEvanescentes/RosePineForMona/assets/25782090/91163795-abcf-4f55-b2ba-010f41f85d53) |
+| Rosé Pine | ![The default Rosé Pine theme. The darkest of the variants is represented by a black rose, but despite the darkness, colorful hues can be seen throughout the Mona interface.](https://github.com/rose-pine/mona/assets/25782090/fce9e7c3-d7bd-4569-8661-e50893349822) | ![Rose Pine QR Code](https://github.com/SocietasEvanescentes/RosePineForMona/assets/25782090/c781761e-bbfb-4e0a-871f-2b0955d16be2) 
+| Rosé Pine Moon | ![The moon variant is represented by a gorgeous, attention-grabbing red rose with a rich green stem. This conveys the vibrant colors used in the moon theme, a dark theme that doesn't compromise with dull colors.](https://github.com/rose-pine/mona/assets/25782090/fa125bb3-9bed-423f-957e-5a458b000988) | ![Rose Pine Moon QR Code](https://raw.githubusercontent.com/SocietasEvanescentes/RosePineForMona/main/RosePineMoonQR.jpg) | 
+| Rosé Pine Dawn | ![The dawn variant is represented by this pale yet calm rose, to convey a comfy theme that's easy on the eyes.](https://github.com/rose-pine/mona/assets/25782090/2efaa34e-33d1-4e2e-bf98-2ea97c551d10) | ![Rose Pine Dawn QR Code](https://github.com/SocietasEvanescentes/RosePineForMona/assets/25782090/91163795-abcf-4f55-b2ba-010f41f85d53) |
 
 
 
