@@ -22,7 +22,7 @@ Select your varient
 
 ## Gallery
 
-![a22adde9ebc61197](https://user-images.githubusercontent.com/44733677/222988400-26a2fb7a-78e7-4396-a1ae-8f70fb4f9b8f.png)
+[Find previews of our beautiful themes here](https://github.com/SocietasEvanescentes/mona/tree/main/screenshots)
 
 
 ## Thanks to
