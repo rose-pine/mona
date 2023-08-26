@@ -25,7 +25,7 @@ Select your varient
 
 ## Gallery
 
-[Find previews of our beautiful themes here](https://github.com/SocietasEvanescentes/mona/tree/main/screenshots)
+[Find previews of our beautiful themes here](https://github.com/rose-pine/mona/tree/main/screenshots)
 
 
 ## Thanks to
